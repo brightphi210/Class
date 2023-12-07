@@ -22,7 +22,7 @@ const humams = {
     women: {
         mum: 'Tobe Mummuy', 
         Joe:'Joe Sister', 
-        blaik: [true, 'grace', {animal: 'goat'} ]
+        blaik: [true, 'grace' ]
     }
 }
 
